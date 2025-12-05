@@ -1,0 +1,16 @@
+# TensorFlow and related packages
+tensorflow>=2.15.0
+tensorflow-hub>=0.15.0
+
+# Streamlit
+streamlit>=1.28.0
+
+# Image processing
+Pillow>=9.1.0
+numpy>=1.23.0
+
+# Utilities
+matplotlib>=3.6.0
+
+# Testing
+pytest>=7.0.0
